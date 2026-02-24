@@ -18,5 +18,11 @@
 			"description": "my personal website where i share ideas, art and everything cool :)",
 			"button_url": "https://mailoeckchen.neocities.org/badge/88x31.gif"
 		}
+		{
+			"name": "SourSoft",
+			"url": "https://soursoft.neocities.org",
+			"description": "A gamedev forum, chatroom, and tools site... and SourSoft's dev log.",
+			"button_url": "https://soursoft.neocities.org/button.png"
+		}
 	]
 }
